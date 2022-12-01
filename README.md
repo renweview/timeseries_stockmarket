@@ -1,2 +1,2 @@
 # timeseries_stockmarket
-WWC Python - Codum partnership. 
+WWC Python - Codum partnership with Namita S. 
